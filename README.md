@@ -4,7 +4,7 @@ Alongside that I develop Minecraft plugins and soon, websites.
 
 [![Zax71's GitHub stats](https://github-readme-stats.vercel.app/api?username=zax71&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zax71&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zax71&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
