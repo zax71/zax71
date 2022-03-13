@@ -1,8 +1,18 @@
-### Hi there 👋
+# Zax71
+
+## About me
+I'm the developer of [Endercube](https://discord.gg/x3aynQK), a modern Minecraft server that has a main focus on Survival.
+Alongside that I develop Minecraft plugins and soon, websites.
 
 [![Zax71's GitHub stats](https://github-readme-stats.vercel.app/api?username=zax71&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zax71&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zax71&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contact
+
+Email: [zax71@endercube.net](mailto:zax71@endercube.net)
+
+Discord: **Zax71#1557**
 <!--
 **zax71/zax71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
