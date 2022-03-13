@@ -1,5 +1,3 @@
-# Zax71
-
 ## About me
 I'm the developer of [Endercube](https://discord.gg/x3aynQK), a modern Minecraft server that has a main focus on Survival.
 Alongside that I develop Minecraft plugins and soon, websites.
