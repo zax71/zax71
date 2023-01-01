@@ -6,22 +6,12 @@ Alongside that I develop Minecraft plugins and websites.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zax71&layout=compact&theme=dracula&border_color=ff6e96)](https://github.com/anuraghazra/github-readme-stats)
 
+## Organizations
+
+ * [JavaDeathrun](https://github.com/JavaDeathrun)
+ * [Ender-Cube](https://github.com/Ender-Cube)
+
 ## Contact
 
 Email: [zax71@endercube.net](mailto:zax71@endercube.net)
 
-Discord: **Zax71#1557**
-<!--
-**zax71/zax71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
