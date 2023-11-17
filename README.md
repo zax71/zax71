@@ -6,6 +6,7 @@ Alongside that I develop Minecraft plugins and websites.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zax71&layout=compact&theme=dracula&border_color=ff6e96)
 
+<img src="https://profile-counter.glitch.me/zax71/count.svg"> people have viewed this page
 ## Organizations
 
  * [JavaDeathrun](https://github.com/JavaDeathrun)
