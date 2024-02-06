@@ -11,6 +11,7 @@ Alongside that I develop Minecraft plugins and websites.
 
  * [JavaDeathrun](https://github.com/JavaDeathrun)
  * [Ender-Cube](https://github.com/Ender-Cube)
+ * [DockedMemo](https://github.com/DockedMemo)
  * [Multiverse](https://github.com/Multiverse) (I help with support, as well as development occasionly)
 
 ## Contact
