@@ -9,10 +9,13 @@ Alongside that I develop Minecraft plugins and websites.
 <img src="https://profile-counter.glitch.me/zax71/count.svg"> people have viewed this page
 ## Organizations
 
- * [JavaDeathrun](https://github.com/JavaDeathrun)
  * [Ender-Cube](https://github.com/Ender-Cube)
+ * [Multiverse](https://github.com/Multiverse) (I help with support, as well as development)
  * [DockedMemo](https://github.com/DockedMemo)
- * [Multiverse](https://github.com/Multiverse) (I help with support, as well as development occasionly)
+ * [JavaDeathrun](https://github.com/JavaDeathrun)
+
+
+
 
 ## Contact
 
